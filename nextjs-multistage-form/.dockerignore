@@ -1,0 +1,16 @@
+.git
+.next/
+.pnpm-store/
+node_modules/
+npm-debug.log
+.env
+.env.local
+.env.development
+.env.production
+
+.next/
+out/
+
+.vercel/
+
+pnpm-lock.yaml
